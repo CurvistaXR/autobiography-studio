@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "project": {
+    "subject": "",
+    "audience": "",
+    "length": "",
+    "voice": "first-person",
+    "style": "",
+    "privacy_posture": "",
+    "edition": "working"
+  },
+  "approvals": {
+    "consent": false,
+    "public_research": false,
+    "outline": false,
+    "sensitive_content": false,
+    "cover": false,
+    "final_export": false
+  },
+  "approved_title": "",
+  "updated_at": ""
+}

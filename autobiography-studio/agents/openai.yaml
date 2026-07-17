@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生自传成书"
+  short_description: "把个人资料和深度访谈整理为可信、可编辑的完整人生自传"
+  default_prompt: "使用 $autobiography-studio 帮我整理个人材料、补充访谈并制作自传。"
